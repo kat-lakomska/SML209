@@ -5,7 +5,7 @@
 <h2>Section 1</h2>
 <p>Hey! I'm Kasia and I'm from Poland. I moved to London last year. I'm studying French and Business :) </p>
 <hr>
-<h3>Section 3</h3>
+<h2>Section 2</h2>
 <ul>
 <li>Start planning the assignement for Language Myths.</li>
 <li>Go to the gym.</li>
