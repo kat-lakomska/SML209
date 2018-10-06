@@ -17,8 +17,8 @@
 <h2>Section 3</h2>
 <p>Here is a list of my favorite things:</p>
 <ol>
- <li>music</l>
- <li>shopping</l>
+ <li>music</li>
+ <li>shopping</li>
  <li>healthy food</li>
  </ol>
  <hr>
