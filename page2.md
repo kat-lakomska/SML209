@@ -13,4 +13,5 @@
   <tr><th>Noun</th><th>Verb</th><th>Adjective</th></tr>
   <tr><td>Apple</td><td>to eat</td><td>Slow<t/d></tr>
     <tr><td>Banana</td><td>to cook</td><td>Tasty</td><tr>
+    <tr><td>Orange</td><td>to peel</td><td>Sweet</td></tr>
 </table>
