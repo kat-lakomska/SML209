@@ -15,4 +15,4 @@
   <tr><td>banana</td><td>to cook</td><td>tasty</td><tr>
   <tr><td>orange</td><td>to peel</td><td>sweet</td></tr>
 </table>
-  <p> <lang="pl"> Lubię się uczyć programować. </p>
+  <p><lang="pl"> Lubię się uczyć programować.</p>
