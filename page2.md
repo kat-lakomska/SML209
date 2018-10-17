@@ -1,10 +1,8 @@
 <h1>HTML Part 2 Homework</h1>
 <p> Today is 13<sup>th</sup> of October </p>
-<img src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying 'hello' in different languages">
 <a href="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png"
 title="View Image Source">
-<img src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png"
-alt="Speech bubbles saying hello in different languages">
+<img src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
 <dl>
   <dt>language</dt>
