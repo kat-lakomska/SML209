@@ -2,7 +2,7 @@
 <p> Today is 13<sup>th</sup> of October </p>
 <a href="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png"
 title="View Image Source">
-<img style="width:70%; border:1px solid red;"
+<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
 <dl>
