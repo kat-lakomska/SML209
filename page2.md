@@ -1,10 +1,12 @@
 <h1>HTML Part 2 Homework</h1>
 <p> Today is 13<sup>th</sup> of October </p>
+<p>
 <a href="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png"
 title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
+  BLABLABLABLAALBALBALABALB </p>
 <dl>
   <dt>language</dt>
   <dd>the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
