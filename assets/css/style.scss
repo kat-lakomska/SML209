@@ -11,12 +11,11 @@ vertical-align:top;
 border: 1px solid red;
 }
 
-.main-content h1 {
-	color:pink;
-}
-
-.main-content h2 {
-	color:pink;
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
+	color: #37cbf3;
 }
 
 .page-header {
