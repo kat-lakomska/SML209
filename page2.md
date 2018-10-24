@@ -9,9 +9,6 @@ src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png
 Communication is defined as a two-way process of reaching mutual understanding, in which participants not only exchange (encode-decode) information, news, ideas and feelings but also create and share meaning. In general, communication is a means of connecting people or places. In business, it is a key function of management--an organization cannot operate without communication between levels, departments and employees. See also communications.
  </p>
 
-
-
-
 <dl>
   <dt>language</dt>
   <dd>the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
