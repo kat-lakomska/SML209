@@ -6,7 +6,7 @@ title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
-Communication is defined as a two-way process of reaching mutual understanding, in which participants not only exchange (encode-decode) information, news, ideas and feelings but also create and share meaning. In general, communication is a means of connecting people or places. In business, it is a key function of management--an organization cannot operate without communication between levels, departments and employees. See also communications.
+Communication is defined as a two-way process of reaching mutual understanding, in which participants not only exchange (encode-decode) information, news, ideas and feelings but also create and share meaning. In general, communication is a means of connecting people or places. In business, it is a key function of management--an organization cannot operate without communication between levels, departments and employees. 
  </p>
 
 <dl>
