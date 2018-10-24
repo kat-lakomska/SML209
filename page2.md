@@ -6,11 +6,12 @@ title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
-Language learning is the process by which the language capability develops in a human.It is not easy to give a definition to it since it contains too many things. </p>
+Communication is defined as a two-way process of reaching mutual understanding, in which participants not only exchange (encode-decode) information, news, ideas and feelings but also create and share meaning. In general, communication is a means of connecting people or places. In business, it is a key function of management--an organization cannot operate without communication between levels, departments and employees. See also communications.
+ </p>
 
 
 
-<p>
+
 <dl>
   <dt>language</dt>
   <dd>the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
@@ -18,7 +19,7 @@ Language learning is the process by which the language capability develops in a 
   <dd>a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.</dd>
   <dt>sound</dt>
   <dd>vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear. </dd>
-  </dl> </p>
+  </dl> 
  <table>
   <tr><th>Noun</th><th>Verb</th><th>Adjective</th></tr>
   <tr><td>apple</td><td>to eat</td><td>slow</td></tr>
