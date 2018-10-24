@@ -6,7 +6,8 @@ title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
-  BLABLABLABLAALBALBALABALB </p>
+ Text Text Text aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p>
+
 <dl>
   <dt>language</dt>
   <dd>the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
