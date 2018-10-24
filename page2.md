@@ -6,7 +6,7 @@ title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;"
 src="https://www.padworth.com/wp-content/uploads/2018/02/beeplugin_languages.png" alt="Speech bubbles saying hello in different languages">
 </a>
- Text Text Text aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p>
+Language learning is the process by which the language capability develops in a human.It is not easy to give a definition to it since it contains too many things. </p>
 
 <dl>
   <dt>language</dt>
