@@ -10,7 +10,7 @@ Language learning is the process by which the language capability develops in a 
 
 
 
-
+<p>
 <dl>
   <dt>language</dt>
   <dd>the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.</dd>
@@ -18,7 +18,7 @@ Language learning is the process by which the language capability develops in a 
   <dd>a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.</dd>
   <dt>sound</dt>
   <dd>vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear. </dd>
-  </dl>
+  </dl> </p>
  <table>
   <tr><th>Noun</th><th>Verb</th><th>Adjective</th></tr>
   <tr><td>apple</td><td>to eat</td><td>slow</td></tr>
