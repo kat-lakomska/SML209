@@ -22,3 +22,5 @@
  <li>healthy food</li>
  </ol>
  <hr>
+<p> Interactive map of Poland </p>
+<iframe src="https://www.google.com/maps/d/embed?mid=1QqM4vRSfXLjLlPI-n32GZjGqzgyhiWu7" width="640" height="480"></iframe>
