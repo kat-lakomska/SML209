@@ -22,7 +22,7 @@
  </dl> 
  
  
- <p> Interactive map of Poland </p>
+<h2> Interactive map of Poland </h2>
 <iframe src="https://www.google.com/maps/d/embed?mid=1QqM4vRSfXLjLlPI-n32GZjGqzgyhiWu7" width="640" height="480"></iframe>
 <p> The Main Square of Gliwice : An introduction </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1ko5TuN_ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
