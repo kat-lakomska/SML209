@@ -10,6 +10,16 @@
  </ol>
  
  <h2> A brief outline of the pages</h2>
+ <dl>
+  <dt>Page 2</dt>
+  <dd>Why you should visit Poland? Why you should learn Polish language?</dd>
+  <dt>Page 3</dt>
+  <dd>Why you should visit Poland? Why you should learn Polish language?</dd>
+  <dt>Page 4</dt>
+  <dd>Introduction to Polish Grammar</dd>
+ <dt> Page 5</dt>
+ <dd>Additional Polish Vocabuary</dd>
+  </dl> 
  
  
  <p> Interactive map of Poland </p>
