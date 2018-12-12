@@ -9,10 +9,14 @@
  <li>It will include some essential information about Poland, Polish people as well as some fun facts about the country and the language.</li>
  </ol>
  
+ <h2> A brief outline of the pages</h2>
+ 
+ 
  <p> Interactive map of Poland </p>
 <iframe src="https://www.google.com/maps/d/embed?mid=1QqM4vRSfXLjLlPI-n32GZjGqzgyhiWu7" width="640" height="480"></iframe>
 <p> The Main Square of Gliwice : An introduction </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1ko5TuN_ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <p style="color:red;">Hey! I'm Kasia and I'm from Poland. I moved to London last year. I'm studying French and Business.</p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=katarzyna-agnieszka-lakomska&page=sml209-computers-and-languages-2018-katarzyna"> Visit my QMplus Hub Page</a>
