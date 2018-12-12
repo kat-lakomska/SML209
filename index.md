@@ -18,8 +18,8 @@
   <dt>Page 4: Introduction to Polish Grammar </dt>
   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an introduction to verbs and conjugation.</dd>
  <dt> Page 5: Additional Polish Vocabuary </dt>
- <dd>This section provides a vocabulary of Numbers and Animals</dd>
-  </dl> 
+ <dd>This section provides a vocabulary of Numbers(1-50) and Animals</dd>
+ </dl> 
  
  
  <p> Interactive map of Poland </p>
