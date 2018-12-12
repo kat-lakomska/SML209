@@ -11,14 +11,14 @@
  
  <h2> A brief outline of the pages</h2>
  <dl>
-  <dt>Page 2:Why you should visit Poland? Why you should learn Polish language?</dt>
-  <dd>This page will contain top reasons to visit Poland as well as top reasons to learn the Polish language </dd>
-  <dt>Page 3</dt>
-  <dd>Why you should visit Poland? Why you should learn Polish language?</dd>
-  <dt>Page 4</dt>
-  <dd>Introduction to Polish Grammar</dd>
- <dt> Page 5</dt>
- <dd>Additional Polish Vocabuary</dd>
+  <dt>Page 2: Why you should visit Poland? Why you should learn Polish language?</dt>
+  <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language </dd>
+  <dt>Page 3: Why you should visit Poland? Why you should learn Polish language? </dt>
+  <dd>This page includes 15 basic/everyday Polish phrases and a quiz to test the progress after learning the phrases.
+  <dt>Page 4: Introduction to Polish Grammar </dt>
+  <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an introduction to verbs and conjugation.</dd>
+ <dt> Page 5: Additional Polish Vocabuary </dt>
+ <dd>This section provides a vocabulary of Numbers and Animals</dd>
   </dl> 
  
  
