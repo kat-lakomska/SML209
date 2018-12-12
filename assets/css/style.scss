@@ -2,6 +2,13 @@
 ---
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC');
+
+body {
+font-family: 'Noto Serif TC', serif;
+}
+
+
 .imgLeft {
 float:left;
 margin-right:10px;
