@@ -1,8 +1,8 @@
-<h1>Welcome</h1>
-<p>This is my page for SML209</p> 
+<h1>Welcome to my page!</h1>
+<p>This is a HOME PAGE of my website, aiming at teaching you some basics of Polish language </p> 
 <hr>
 
-<h2>Aims of this website</h2>
+<h2>Main aims of this website</h2>
 <ol>
  <li>The website is created to provide basic knowledge about Poland and the Polish language.</li>
  <li>The website is aimed at anyone who is interested in learning Polish, getting to know the Polish culture or wishes to start his journey with Eastern-European languages (as the Polish language is a gateway to other Slavic languages).</li>
