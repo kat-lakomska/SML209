@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Learn Polish Today!
 description: An introduction to your yourney with Polish culture and language. 
 github:
- Page 2: page2.html
- Page 3: page3.html
- Page 4: page4.html
- Page 5: page5.html
+   Page2: page2.html
+   Page3: page3.html
+   Page4: page4.html
+   Page5: page5.html
