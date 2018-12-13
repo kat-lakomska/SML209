@@ -1,5 +1,4 @@
 <h1>Welcome to my page!</h1>
-<p>This is a home page of my website, aiming at teaching you some basics of Polish language. </p> 
 <hr>
 
 <h2>The main aims of this website are:</h2>
@@ -10,6 +9,8 @@
  <li>to guide potential visitors and teach them some basics! </li>
  <li>to help anyone who wishes to start his journey with Eastern-European languages (as the Polish language is a gateway to other Slavic languages)! </li>
  </ul>
+
+<hr>
 
 <iframe src="https://h5p.org/h5p/embed/387937" width="1090" height="792" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
