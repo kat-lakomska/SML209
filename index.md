@@ -17,15 +17,15 @@
 <iframe src="https://h5p.org/h5p/embed/387937" width="1090" height="792" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
  
- <h2> A brief outline of the pages</h2>
+ <h2>Outline of the pages</h2>
  <dl>
-  <dt>Page 2: Why you should visit Poland? Why you should learn Polish language?</dt>
-  <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language </dd>
-  <dt>Page 3: Useful Polish phrases  </dt>
+  <dt>Why Poland? Why Polish?</dt>
+  <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language.</dd>
+  <dt>Useful Phrases</dt>
   <dd>This page includes 15 basic/everyday Polish phrases and a quiz to test the progress after learning the phrases.
-  <dt>Page 4: Introduction to Polish Grammar </dt>
+  <dt>Introduction to Polish Grammar </dt>
   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an introduction to verbs and conjugation.</dd>
- <dt> Page 5: Additional Polish Vocabuary </dt>
+ <dt>Additional Vocabuary</dt>
  <dd>This section provides a vocabulary of Numbers(1-50) and Animals</dd>
  </dl> 
  
