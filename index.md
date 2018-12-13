@@ -14,6 +14,7 @@
 
  <h2>Outline of the pages</h2>
  <dl>
+ 
   <dt>Why Poland? Why Polish?</dt>
   <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language.</dd>
   <dt>Useful Phrases</dt>
@@ -22,11 +23,12 @@
   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an introduction to verbs and conjugation.</dd>
  <dt>Additional Vocabuary</dt>
  <dd>This section provides a vocabulary of Numbers(1-50) and Animals</dd>
+ 
  </dl> 
  
  <hr>
 
-<h2> A visual representation of Poland </h2>
+<h2>Visual representation of Poland </h2>
 
 <iframe src="https://h5p.org/h5p/embed/387937" width="1090" height="792" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -51,20 +53,4 @@
 <p style="color:red;">Hey! I'm Kasia and I'm from Poland. I moved to London last year. I'm studying French and Business.</p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=katarzyna-agnieszka-lakomska&page=sml209-computers-and-languages-2018-katarzyna"> Visit my QMplus Hub Page</a>
 <hr>
-<h2>Section 2</h2>
-<p>Here is my to-do list:</p>
-<ul>
-<li>Start planning the assignement for Language Myths.</li>
-<li>Go to the gym.</li>
-<li>Prepare lunch for Monday.</li>
-</ul>
-<hr>
-<h2>Section 3</h2>
-<p>Here is a list of my favorite things:</p>
-<ol>
- <li>music</li>
- <li>shopping</li>
- <li>healthy food</li>
- </ol>
- <hr>
 
