@@ -6,7 +6,4 @@
 <h2>Now check your progress with a single-choice quiz</h2>
 <iframe src="https://h5p.org/h5p/embed/393865" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2>Listen to the song and work on your Polish language skills!</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D1zHyVTsZLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://h5p.org/h5p/embed/345751" width="560" height="1203" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
