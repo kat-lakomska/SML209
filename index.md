@@ -17,6 +17,10 @@
  <dl>
    <dt>Why Poland? Why Polish?</dt>
    <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language.</dd>
+   <p>
+  <a style="float:right;" href="page2.html" class="btn2">Go to this page</a>
+  </p>
+  <div style="clear:both;"> </div>
    <dt>Useful Phrases</dt>
    <dd>This page includes 15 basic/everyday Polish phrases and a quiz to test the progress after learning the phrases.</dd>
    <dt>Introduction to Polish Grammar</dt>
