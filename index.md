@@ -15,18 +15,30 @@
  <h2>Outline of the pages</h2>
  
  <dl>
-   <dt>Why Poland? Why Polish?</dt>
+   <dt>Page 2: Why Poland? Why Polish?</dt>
    <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language.</dd>
    <p>
-  <a style="float:right;" href="page2.html" class="btn2">Go to this page</a>
+  <a style="float:right;" href="page2.html" class="btn2">See Page 2</a>
   </p>
   <div style="clear:both;"> </div>
-   <dt>Useful Phrases</dt>
+   <dt>Page 3: Useful Phrases</dt>
    <dd>This page includes 15 basic/everyday Polish phrases and a quiz to test the progress after learning the phrases.</dd>
-   <dt>Introduction to Polish Grammar</dt>
-   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an                   introduction to verbs and conjugation.</dd>
-  <dt>Additional Vocabuary</dt>
+    <p>
+  <a style="float:right;" href="page3.html" class="btn2">See Page 3</a>
+  </p>
+  <div style="clear:both;"> </div>
+    <dt>Page 4: Additional Vocabuary</dt>
   <dd>This section provides a vocabulary of Numbers(1-50) and Animals</dd>
+    <p>
+  <a style="float:right;" href="page4.html" class="btn2">See Page 4</a>
+  </p>
+  <div style="clear:both;"> </div>
+   <dt>Page 5: Introduction to Polish Grammar</dt>
+   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an                   introduction to verbs and conjugation.</dd>
+    <p>
+  <a style="float:right;" href="page5.html" class="btn2">See Page 5</a>
+  </p>
+  <div style="clear:both;"> </div>
 </dl> 
  
  <hr>
