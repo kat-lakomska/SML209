@@ -1,4 +1,4 @@
-<p>*The following page introduces you to three basic vocabulary sets: Numbers, Days of the Week and Animals. Each flashcard set combines visual representation of a term as well as audio provided in order to facilitate memorasation of terms studied. Below flashcard sets, you can find Game Section where you are advised to practice your Polish and test your progress. Have Fun!*</p>
+<p>The following page introduces you to three basic vocabulary sets: Numbers, Days of the Week and Animals. Each flashcard set combines visual representation of a term as well as audio provided in order to facilitate memorasation of terms studied. Below flashcard sets, you can find Game Section where you are advised to practice your Polish and test your progress. Have Fun!</p>
   
   <h1>Study Section</h1>
    
