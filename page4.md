@@ -17,9 +17,7 @@
   <h1 style="color:red;">Game Section</h1>
 <hr>
 
-<h3>Check your progress by arranging the correct sequence of numbers</h3>
 <iframe src="https://h5p.org/h5p/embed/401143" width="1090" height="746" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h3>Drag&Drop game</h3>
 <iframe src="https://h5p.org/h5p/embed/400905" width="1090" height="692" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
