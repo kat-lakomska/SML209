@@ -21,6 +21,11 @@
     <dd>Used to address someone directly. Example: Kocham Cię Krzysiu! ("I love you, Chris!")</dd>
   </dl> 
 
+<h2>Further explanation: Youtube Video</h2>
+<p>
+  <a style="float:right;" href="practice.html" class="btn2">Go to further explanation</a>
+  </p>
+  <div style="clear:both;"> </div>
     
 
 
