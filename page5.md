@@ -37,6 +37,21 @@
   <h2> Polish Cases Drill: MUG </h2>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1DMaMeql6W8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+ <hr>
+ 
+ <h1 style="color:red;">Polish Verbs Conjugation</h1>
+ <p> There are many irregular and semi-irregular Polish verbs, but among the others, we can find some regularities - and we can divide them into four categories depending on the endings.
+  <dl>
+    <dt>Ist group: -ę, -esz</dt>
+    <dt>IInd group: -ę, -isz (-ysz)</dt>
+    <dt>IIIrd group: -am, -asz</dt>
+    <dt>IVth group: -em, -esz</dt>
+    
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/ASkrle_zD-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+  
     
 
 
