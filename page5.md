@@ -1,3 +1,36 @@
+<p>This page gives you an introduction to Polish grammar: you will get to know some basics of 7 polish cases as well as you will learn how to conjugate Polish verbs. </p>
+<hr>
+
+<h1>7 Polish Cases: General knowledge</h1>
+<p> There are seven cases of noun and adjective declension in Polish. The whole list in traditional order is:
+  <ol> Nominative (mianownik)
+       Genitive (dopełniacz)
+       Dative (celownik)
+       Accusative (biernik)
+       Instrumental (narzędnik)
+       Locative (miejscownik)
+       Vocative (wołacz).
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>Adjectives exercise</h1>
 
 <p>
