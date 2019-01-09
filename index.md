@@ -1,4 +1,5 @@
 <h1>Welcome to my page!</h1>
+<h1 style="color:red;">Witaj na mojej stronie!</h1>
 <hr>
 
 <h2>Main aims of this website</h2>
