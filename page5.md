@@ -2,14 +2,25 @@
 <hr>
 
 <h1>7 Polish Cases: General knowledge</h1>
-<p> There are seven cases of noun and adjective declension in Polish. The whole list in traditional order is:
-  <ol> Nominative (mianownik)
-       Genitive (dopełniacz)
-       Dative (celownik)
-       Accusative (biernik)
-       Instrumental (narzędnik)
-       Locative (miejscownik)
-       Vocative (wołacz).
+<p> There are seven cases of noun and adjective declension in Polish. The whole list in traditional order with a brief explanation is given below:
+  <dl>
+  <dt>Nominative (mianownik)</dt>
+  <dd>Use the basic, unmarked, dictionary forms and often indicates the subject of the sentence. Example: Gosia pisze książkę. - Gosia is writing a book. (Gosia in nominative because she is the subject of the sentence)</dd>
+  <dt>Genitive (dopełniacz)</dt>
+  <dd>Used to indicate possession. Often corresponds to English 's or of.
+ Example: Ala widzi psa Agnieszki - Ala sees Agnieszka's dog (Agnieszka in genitive)</dd>
+  <dt>Dative (celownik)</dt>
+  <dd>Indicates the indirect object. To whom something is given, or action for somebody. Example: Basia daje kotu mleko - Basia gives milk to the cat.(Cat is in the dative.)</dd>
+    <dt> Accusative (biernik)</dt>
+    <dd>Indicates the direct object of the sentence. Example: Piotr kocha Kasię. - Piotr loves Kasia.</dd>
+    <dt>Instrumental (narzędnik)</dt>
+    <dd>Indicates the tool or means. Example: Basia jedzie samochodem - Basia is driving a car. (The car is the tool or means so it needs to be in the instrumental).</dd>
+    <dt>Locative (miejscownik)</dt>
+    <dd>Never used alone, only in connection with certain prepositions, like "w" (in) and "o" (about). Example: Adam jest w banku. - Adam is in the bank.</dd>
+    <dt>Vocative (wołacz)</dt>
+    <dd>Used to address someone directly. Example: Kocham Cię Krzysiu! ("I love you, Chris!")</dd>
+  </dl> 
+
     
 
 
