@@ -44,7 +44,7 @@
   <dl>
     <dt>Ist group: -ę, -esz</dt>
      <dd>
-     <table>
+   <table>
   <tr><th>ENDING</th><th>WSKAZYWAĆ - to point</th></tr>
   <tr><td>-ę</td><td>wskazuję</td></tr>
   <tr><td>-esz</td><td>wskazujesz</td></tr>
@@ -56,7 +56,7 @@
     </dd>
     <dt>IInd group: -ę, -isz (-ysz)</dt>
     <dd>
-         <table>
+  <table>
   <tr><th>ENDING</th><th>MYŚLEĆ - to think</th></tr>
   <tr><td>-ę</td><td>myślę</td></tr>
   <tr><td>-(i/y)sz</td><td>myślisz</td></tr>
@@ -68,7 +68,7 @@
     </dd>
     <dt>IIIrd group: -am, -asz</dt>
     <dd>
-     <table>
+  <table>
      <tr><th>ENDING</th><th>KOCHAĆ - to love</th></tr>
   <tr><td>-am</td><td>kocham</td></tr>
   <tr><td>-asz</td><td>kochasz</td></tr>
@@ -80,7 +80,7 @@
     </dd>
     <dt>IVth group: -em, -esz</dt>
     <dd>
-             <table>
+  <table>
   <tr><th>ENDING</th><th>UMIEĆ - to be able to</th></tr>
   <tr><td>-em</td><td>umiem</td></tr>
   <tr><td>-esz</td><td>umiesz</td></tr>
@@ -91,9 +91,9 @@
  </table>
     </dd>
     
-    
+ <hr>
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/ASkrle_zD-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  
  
   
