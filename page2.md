@@ -3,13 +3,14 @@
 
 <h1>Now a bit of explanation...</h1>
 
-<h2>Why visiting Poland is a must?</h2>
+
+<h2 style="color:red;">Why visiting Poland is a must?</h2>
 <iframe src="https://h5p.org/h5p/embed/388008" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
 
 <hr>
 
-<h2> And why is it worth learning Polish? </h2>
+<h2 style="color:red;">And why is it worth learning Polish?</h2>
 <iframe src="https://h5p.org/h5p/embed/392874" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
