@@ -57,7 +57,7 @@ title="View Image Source">
 <hr>
 
 <h2>Interactive Map of Poland presenting its largest cities</h2>
-<iframe src="https://www.google.com/maps/d/embed?mid=1jiZ26gfFH-85vgqpb0Xev1FC61xxyNc-" width="960" height="720"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1jiZ26gfFH-85vgqpb0Xev1FC61xxyNc-" width="800" height="600"></iframe>
 
 <hr>
 
