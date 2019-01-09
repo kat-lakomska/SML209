@@ -1,7 +1,7 @@
 <style>
   .red {
-    color: red
-    font-weight: bold
+    color: red;
+    font-weight: bold;
   }
 </style>
 
