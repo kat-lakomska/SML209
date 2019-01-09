@@ -43,6 +43,7 @@
  <p> There are many irregular and semi-irregular Polish verbs, but among the others, we can find some regularities - and we can divide them into four categories depending on the endings.
   <dl>
     <dt>Ist group: -ę, -esz</dt>
+     <dd>
      <table>
   <tr><th>ENDING</th><th>WSKAZYWAĆ - to point</th></tr>
   <tr><td>-ę</td><td>wskazuję</td></tr>
@@ -52,7 +53,9 @@
   <tr><td>-ecie</td><td>wskazujecie</td></tr>
   <tr><td>-ą</td><td>wskazują</td></tr>
  </table>
+    </dd>
     <dt>IInd group: -ę, -isz (-ysz)</dt>
+    <dd>
          <table>
   <tr><th>ENDING</th><th>MYŚLEĆ - to think</th></tr>
   <tr><td>-ę</td><td>myślę</td></tr>
@@ -62,8 +65,32 @@
   <tr><td>-(i/y)cie</td><td>myślicie</td></tr>
   <tr><td>-ą</td><td>myślą</td></tr>
  </table>
+    </dd>
     <dt>IIIrd group: -am, -asz</dt>
+    <dd>
+     <table>
+     <tr><th>ENDING</th><th>KOCHAĆ - to love</th></tr>
+  <tr><td>-am</td><td>kocham</td></tr>
+  <tr><td>-asz</td><td>kochasz</td></tr>
+  <tr><td>-a</td><td>kocha</td></tr>
+  <tr><td>-amy</td><td>kochamy</td></tr>
+  <tr><td>-acie</td><td>kochacie</td></tr>
+  <tr><td>-ają</td><td>kochają</td></tr>
+ </table>
+    </dd>
     <dt>IVth group: -em, -esz</dt>
+    <dd>
+             <table>
+  <tr><th>ENDING</th><th>UMIEĆ - to be able to</th></tr>
+  <tr><td>-em</td><td>umiem</td></tr>
+  <tr><td>-esz</td><td>umiesz</td></tr>
+  <tr><td>-e</td><td>umie</td></tr>
+  <tr><td>-emy</td><td>umiemy</td></tr>
+  <tr><td>-ecie</td><td>umiecie</td></tr>
+  <tr><td>-eją</td><td>umieją</td></tr>
+ </table>
+    </dd>
+    
     
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ASkrle_zD-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
