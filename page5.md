@@ -1,3 +1,10 @@
+<style>
+  .red {
+    color: red
+    font-weight: bold
+  }
+</style>
+
 <p>This page gives you an introduction to Polish grammar: you will get to know some basics of 7 polish cases as well as you will learn how to conjugate Polish verbs. </p>
 <hr>
 
@@ -5,7 +12,7 @@
 <p> There are seven cases of noun and adjective declension in Polish. The whole list in traditional order with a brief explanation is given below:
   <dl>
   <dt>Nominative (mianownik)</dt>
-  <dd>Use the basic, unmarked, dictionary forms and often indicates the subject of the sentence. Example: Gosia pisze książkę. - Gosia is writing a book. (Gosia in nominative because she is the subject of the sentence)</dd>
+  <dd>Use the basic, unmarked, dictionary forms and often indicates the subject of the sentence. Example: Gosia pisze książk<span style="red">ę</span>. - Gosia is writing a book. (Gosia in nominative because she is the subject of the sentence)</dd>
   <dt>Genitive (dopełniacz)</dt>
   <dd>Used to indicate possession. Often corresponds to English 's or of.
  Example: Ala widzi psa Agnieszki - Ala sees Agnieszka's dog (Agnieszka in genitive)</dd>
