@@ -43,6 +43,15 @@
  <p> There are many irregular and semi-irregular Polish verbs, but among the others, we can find some regularities - and we can divide them into four categories depending on the endings.
   <dl>
     <dt>Ist group: -ę, -esz</dt>
+     <table>
+  <tr><th>ENDING</th><th>WSKAZYWAĆ - to point</th></tr>
+  <tr><td>-ę</td><td>wskazuję</td></tr>
+  <tr><td>-esz</td><td>wskazujesz</td></tr>
+  <tr><td>-e</td><td>wskazuje</td></tr>
+  <tr><td>-emy</td><td>wskazujemy</td></tr>
+  <tr><td>-ecie</td><td>wskazujecie</td></tr>
+  <tr><td>-ą</td><td>wskazują</td></tr>
+ </table>
     <dt>IInd group: -ę, -isz (-ysz)</dt>
     <dt>IIIrd group: -am, -asz</dt>
     <dt>IVth group: -em, -esz</dt>
