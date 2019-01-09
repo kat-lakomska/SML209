@@ -1,4 +1,5 @@
-<p>The aim of this page is to convince you that Poland is a fascinating country and has plenty of attractions to offer. Likewise, its objectif is to introduce, demonstrate Polish as a unique and worth-studying language.</p>
+<p>The aim of this page is to convince you that Poland is a fascinating country and has plenty of attractions to offer. Likewise, its objectif is to introduce, demonstrate Polish as a unique and worth learning language.</p>
+<hr>
 
 <h1>Now a bit of explanation...</h1>
 
