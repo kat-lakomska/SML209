@@ -53,6 +53,15 @@
   <tr><td>-ą</td><td>wskazują</td></tr>
  </table>
     <dt>IInd group: -ę, -isz (-ysz)</dt>
+         <table>
+  <tr><th>ENDING</th><th>MYŚLEĆ - to think</th></tr>
+  <tr><td>-ę</td><td>myślę</td></tr>
+  <tr><td>-(i/y)sz</td><td>myślisz</td></tr>
+  <tr><td>-(i/y)</td><td>myśli</td></tr>
+  <tr><td>-(i/y)my</td><td>myślimy</td></tr>
+  <tr><td>-(i/y)cie</td><td>myślicie</td></tr>
+  <tr><td>-ą</td><td>myślą</td></tr>
+ </table>
     <dt>IIIrd group: -am, -asz</dt>
     <dt>IVth group: -em, -esz</dt>
     
