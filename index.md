@@ -3,12 +3,18 @@
 
 <h2>Main aims of this website</h2>
 
+<p>
+ <a href="https://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif"
+title="View Image Source">
+<img class="imgLeft" src="https://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif" alt="Flag of Poland">
+</a>
 <ul>
  <li>to provide you with basic knowledge about Poland and the Polish culture! </li>
  <li>to get you inspired to learn some Polish! </li>
  <li>to guide potential visitors and teach them some basics! </li>
  <li>to help anyone who wishes to start his journey with Eastern-European languages (as the Polish language is a gateway to other Slavic languages)! </li>
  </ul>
+ </p>
 
 <hr>
 
