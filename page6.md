@@ -1,4 +1,4 @@
-<p>This page focuses on improving your listening skills. Working on two common Polish songs, you will have a chance to expand your vocabulary as well as to immerse yourself in the Polish culture. </p>
+<p>This page focuses on improving your listening skills. Working on two common Polish songs, you will have a chance to expand your vocabulary as well as to immerse yourself in Polish culture. </p>
 
 <h2>Rotary-Na jednej z dzikich plaż: Listen to the song and fill in the gaps</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPZMt1Csjv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
