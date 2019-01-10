@@ -1,45 +1,35 @@
 
 <h1>On one of the wild beaches</h1>
 
-<p>The car stood in the rain
-Radio stopped playing
-I touched your knees
-We did not count the stars
+<p>The car stood in the rain</p>
+<p>Radio stopped playing</p>
+<p>I touched your knees</p>
+<p>We did not count the stars</p>
  
-She liked to dance
-So full of joy
-Always chasing the wind
-Constantly thirsty for life
-She kept losing things all the time
-She wanted nothing.
-I didn't understand, when she told me:
-"Today is the last time
-let's dance like the time has all but died"
-She told me....
+<p>She liked to dance</p>
+<p>So full of joy</p>
+<p>Always chasing the wind</p>
+<p>Constantly thirsty for life</p>
+<p>She kept losing things all the time</p>
+<p>She wanted nothing.</p>
+<p>I didn't understand, when she told me:</p>
+<p>"Today is the last time</p>
+<p>let's dance like the time has all but died"</p>
+<p>She told me....</p>
  
-We were supposed to last for eternity
-On one of the wild beaches
-I wanted, with all my strength
-To stay there with you...
+<p>We were supposed to last for eternity</p>
+<p>On one of the wild beaches</p>
+<p>I wanted, with all my strength</p>
+<p>To stay there with you...</p>
  
-She liked to dance
-So full of joy
-Always chasing the wind
-Constantly thirsty for life
-She kept losing things all the time
-She wanted nothing.
-I didn't understand, when she told me:
-"Today is the last time
-let's dance like the time has all but died"
-She told me....
+<p>She liked to dance</p>
+<p>So full of joy</p>
+<p>Always chasing the wind</p>
+<p>Constantly thirsty for life</p>
+<p>She kept losing things all the time</p>
+<p>She wanted nothing.</p>
+<p>I didn't understand, when she told me:</p>
+<p>"Today is the last time</p>
+<p>let's dance like the time has all but died"</p>
+<p>She told me....</p>
  
-She liked to dance
-So full of joy
-Always chasing the wind
-Constantly thirsty for life
-She kept losing things all the time
-She wanted nothing.
-I didn't understand, when she told me:
-"Today is the last time
-let's dance like the time has all but died"
-She told me.... </p>
