@@ -34,6 +34,6 @@
 <p>She told me....</p>
  
 <p>
-  <a style="float:left;" href="page5.html" class="btn2">Go back to Introduction to Grammar</a>
+  <a style="float:left;" href="page6.html" class="btn2">Go back to Music section</a>
   </p>
   <div style="clear:both;"> </div>
