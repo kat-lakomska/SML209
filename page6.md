@@ -17,3 +17,6 @@
   <a style="float:right;" href="translation2.html" class="btn2">See English Translation of the lyrics</a>
   </p>
   <div style="clear:both;"> </div>
+  <hr>
+  <h2>Now challenge yourself with the quiz below!</h2>
+  <iframe src="https://h5p.org/h5p/embed/405233" width="1091" height="423" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
