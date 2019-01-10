@@ -23,27 +23,33 @@ title="View Image Source">
  
  <dl>
    <dt>Page 2: Why Poland? Why Polish?</dt>
-   <dd>This page contains top reasons to visit Poland as well as top reasons to learn the Polish language.</dd>
+   <dd>This page contains top reasons to visit Poland as well as top reasons to learn Polish language.</dd>
    <p>
   <a style="float:right;" href="page2.html" class="btn2">See Page 2</a>
   </p>
   <div style="clear:both;"> </div>
    <dt>Page 3: Useful Phrases</dt>
-   <dd>This page includes 15 basic/everyday Polish phrases and a quiz to test the progress after learning the phrases.</dd>
+   <dd>This page includes ten useful Polish phrases, a quiz designed to test your progress and a memory game to facilitate the memorisation.</dd>
     <p>
   <a style="float:right;" href="page3.html" class="btn2">See Page 3</a>
   </p>
   <div style="clear:both;"> </div>
     <dt>Page 4: Additional Vocabuary</dt>
-  <dd>This section provides a vocabulary of Numbers(1-50) and Animals</dd>
+  <dd>This page provides vocabulary on three topics: Numbers, Days of the Week and Animals. Following flashcard sets, Game Section is designed to help you memorise the vocabulary.</dd>
     <p>
   <a style="float:right;" href="page4.html" class="btn2">See Page 4</a>
   </p>
   <div style="clear:both;"> </div>
    <dt>Page 5: Introduction to Polish Grammar</dt>
-   <dd> This page includes introduction to 7 Polish cases, Youtube video on "How to decline in Polish?" as well as an                   introduction to verbs and conjugation.</dd>
+   <dd> This page includes introduction to 7 Polish cases, as well as an introduction to verbs and conjugation. Brief explanations and Youtube Videos have been added to facilitate your learning proccess.</dd>
     <p>
   <a style="float:right;" href="page5.html" class="btn2">See Page 5</a>
+  </p>
+  <div style="clear:both;"> </div>
+ <dt>Page 6: Music Section</dt>
+   <dd> This page focuses on improving your listening skills. It provides you with two common Polish songs, their lyrics and English translations, as well as games and the quiz designed to test your progress. </dd>
+    <p>
+  <a style="float:right;" href="page6.html" class="btn2">See Page 6</a>
   </p>
   <div style="clear:both;"> </div>
 </dl> 
