@@ -13,3 +13,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D1zHyVTsZLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://h5p.org/h5p/embed/345751" width="560" height="1203" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+   <p>
+  <a style="float:right;" href="translation2.html" class="btn2">See English Translation of the lyrics</a>
+  </p>
+  <div style="clear:both;"> </div>
