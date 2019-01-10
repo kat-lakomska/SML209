@@ -47,7 +47,7 @@ title="View Image Source">
   </p>
   <div style="clear:both;"> </div>
  <dt>Page 6: Music Section</dt>
-   <dd> This page focuses on improving your listening skills. It provides you with two common Polish songs, their lyrics and English translations, as well as games and the quiz designed to test your progress. </dd>
+   <dd> This page focuses on improving your listening skills. It provides you with two common Polish songs, their lyrics and English translations, as well as games and a quiz designed to test your progress. </dd>
     <p>
   <a style="float:right;" href="page6.html" class="btn2">See Page 6</a>
   </p>
