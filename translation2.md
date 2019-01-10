@@ -25,3 +25,8 @@
 <p>I will dance with some other man when you will be with this Kryśka</p>
 <p>And later why not, let him crumple my blouse</p>
 <p>Na, na, na, na...</p>
+
+<p>
+  <a style="float:left;" href="page6.html" class="btn2">Go back to Music section</a>
+  </p>
+  <div style="clear:both;"> </div>
