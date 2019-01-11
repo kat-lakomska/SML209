@@ -9,7 +9,7 @@
 <hr>
 
 <h1 style="color:red;">7 Polish Cases: General knowledge</h1>
-<p> There are seven cases of noun and adjective declension in Polish. The whole list in traditional order with a brief explanation is given below:
+<p> There are seven cases of noun declension in Polish. The whole list in traditional order with a brief explanation is given below:
   <dl>
   <dt>Nominative (mianownik)</dt>
   <dd>Use the basic, unmarked, dictionary forms and often indicates the subject of the sentence. Example: Gosia pisze książk<span style="red">ę</span>. - Gosia is writing a book. (Gosia in nominative because she is the subject of the sentence)</dd>
@@ -34,13 +34,13 @@
   </p>
   <div style="clear:both;"> </div>
   
-  <h2> Polish Cases Drill: MUG </h2>
+  <h2> Polish Cases Drill "MUG": Listen and try to repeat! </h2>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1DMaMeql6W8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
  <hr>
  
  <h1 style="color:red;">Polish Verbs Conjugation</h1>
- <p> There are many irregular and semi-irregular Polish verbs, but among the others, we can find some regularities - and we can divide them into four categories depending on the endings.
+ <p>There are many semi-irregular and irregular Polish verbs, but among the others, we can find some regularities - and we can divide them into four categories depending on the endings.
   <dl>
     <dt>Ist group: -ę, -esz</dt>
      <dd>
