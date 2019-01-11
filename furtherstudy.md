@@ -1,6 +1,6 @@
 <p>This page suggests you other learning resources and gives you an overview of each. If you enjoyed my website and wish to continue your yourney with Polish language and culture give them a try! </p>
-
-<h2>Further Study</h2>
+<hr>
+<h2 style="color:red;">Further Study resources:</h2>
 
 <dl>
 <dt> Doulingo (https://www.duolingo.com) </dt>
