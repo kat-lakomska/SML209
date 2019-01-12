@@ -3,7 +3,7 @@
 <h2 style="color:red;">Further Study resources:</h2>
 
 <dl>
-<dt> Doulingo (https://www.duolingo.com) </dt>
+ <dt> Doulingo <a href="https://www.duolingo.com">link</a> </dt>
  <dd> is a language-learning platform that includes a language-learning website and app. The platform uses plenty of game elements and often mimics the structure of video games in order to engage its users. It's an easy and enjoyable way of learning a language! </dd>
   <dt>Learn Polish with PolishPod101 Youtube Channel (https://www.youtube.com/channel/UC3b6n6hqQPXmSCin87BYxwg)</dt>
   <dd> this youtube channel offers a variety of videos on almost every topic you wish! Starting from basics it may be very helpful for unpatient students, who prefer interactive ways of learning rather than reading a textbook.</dd>
